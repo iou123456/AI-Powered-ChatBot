@@ -1,5 +1,6 @@
 ## Setup Instructions
 Install dependencies
+
 ``` npm install express cors openai dotenv ```
 
 ## Create the files
@@ -11,7 +12,9 @@ Create index.html with the frontend code
 Create .env file with your OpenAI API key
 
 ## Run the server
+
 ``` node server.js ```
+
 ## Access the chatbot:
 Open index.html in your browser or serve it through your web server.
 
