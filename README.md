@@ -1,7 +1,7 @@
 ## Setup Instructions
 Install dependencies:
 
-## bash
+bash
 npm install express cors openai dotenv
 Create the files:
 
@@ -13,7 +13,7 @@ Create .env file with your OpenAI API key
 
 Run the server:
 
-## bash
+``` bash
 node server.js
 Access the chatbot:
 Open index.html in your browser or serve it through your web server.
